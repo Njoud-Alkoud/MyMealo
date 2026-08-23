@@ -19,6 +19,3 @@
 <p align="center">
   <img src="apple-watch-reminder.jpeg" width="320">
 </p>
-<p align="center">
-  <img src="apple-watch-preview.jpeg" width="700">
-</p>
